@@ -46,10 +46,9 @@ This GitHub repo serves as my professional portfolio, showcasing my projects, CT
 ---
 
 ### 📄 Professional Documents
-- Résumé  
-- Career objectives  
-- Letters of reference  
-- Skills matrix  
+Resume - [Nathan_Hann_resume.pdf](https://github.com/user-attachments/files/25622370/Nathan_Hann_resume.pdf)
+
+ 
 
 ---
 
@@ -57,14 +56,14 @@ This GitHub repo serves as my professional portfolio, showcasing my projects, CT
 - Daily TryHackMe labs  
 - Growing my Python skills to support automation in cybersecurity  
 - Strengthening my knowledge of Windows security and SOC fundamentals  
-
+- Building a Robot using Python & rasberry pi
 ---
 
 ## 📫 Contact
-If you’d like to connect, collaborate, or review my work more closely, feel free to reach out.
+If you’d like to connect, collaborate, feel free to reach out.
 
 Email: hann.nathan@outlook.com  
-LinkedIn: Coming soon  
+LinkedIn: linkedin.com/in/nhann-cyberops
 
 ---
 
