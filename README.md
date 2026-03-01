@@ -61,7 +61,7 @@ This GitHub repo serves as my professional portfolio, showcasing my projects, CT
 If you’d like to connect, collaborate, feel free to reach out.
 
 Email: hann.nathan@outlook.com  
-LinkedIn: linkedin.com/in/nhann-cyberops
+LinkedIn: https://linkedin.com/in/nhann-cyberops
 
 ---
 
