@@ -32,23 +32,21 @@ This GitHub repo serves as my professional portfolio, showcasing my projects, CT
 
 ### 🏆 CTF Involvement
 - MagpieCTF – Placed Top 20
-- Year-round CTF participation
 - TryHackMe daily labs  
   Includes writeups, notes, and documented learning progress.
 
 ---
 
 ### 📜 Certifications & Achievements
-- TryHackMe badges and pathway milestones  
-- CTF rankings and screenshots  
+- TryHackMe badges and pathway milestones   
 - Additional certificates posted as earned  
 
 ---
 
 ### 📄 Professional Documents
 Resume - [Nathan_Hann_resume.pdf](https://github.com/user-attachments/files/25622370/Nathan_Hann_resume.pdf)
+Pentest for website -  [Pentest.pdf](https://github.com/user-attachments/files/25662391/Pentest.pdf)
 
- 
 
 ---
 
