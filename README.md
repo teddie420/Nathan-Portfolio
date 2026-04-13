@@ -45,16 +45,16 @@ This GitHub repo serves as my professional portfolio, showcasing my projects, CT
 
 ### 📄 Professional Documents
 - Resume -> [Nathan_Hann_resume.pdf](https://github.com/user-attachments/files/25622370/Nathan_Hann_resume.pdf)
-- Pentest for website -> [Pentest.pdf](https://github.com/user-attachments/files/25662391/Pentest.pdf)
 
 
----
 
-## 📈 What I’m Currently Working On
-- Daily TryHackMe labs  
-- Growing my Python skills to support automation in cybersecurity  
-- Strengthening my knowledge of Windows security and SOC fundamentals  
-- Building a Robot using Python & rasberry pi
+--
+##$ Projects I have completed
+Pentest for website -> [Pentest.pdf](https://github.com/user-attachments/files/25662391/Pentest.pdf)
+Pentest for capstone -> [Uploading Capstone.zip…]()
+
+
+
 ---
 
 ## 📫 Contact
