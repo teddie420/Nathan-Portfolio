@@ -49,7 +49,7 @@ This GitHub repo serves as my professional portfolio, showcasing my projects, CT
 
 
 --
-##$ Projects I have completed
+## Projects I have completed
 Pentest for website -> [Pentest.pdf](https://github.com/user-attachments/files/25662391/Pentest.pdf)
 Pentest for capstone -> [Uploading Capstone.zip…]()
 
