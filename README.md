@@ -50,8 +50,11 @@ This GitHub repo serves as my professional portfolio, showcasing my projects, CT
 
 --
 ## Projects I have completed
-Pentest for website -> [Pentest.pdf](https://github.com/user-attachments/files/25662391/Pentest.pdf)
-Pentest for capstone -> [Uploading Capstone.zip…]()
+- Pentest for website -> [Pentest.pdf](https://github.com/user-attachments/files/25662391/Pentest.pdf)
+- Pentest for capstone -> [Uploading Capstone.zip…]()
+- Server hardening -> [ServerSetup.docx](https://github.com/user-attachments/files/26663723/ServerSetup.docx)
+- 
+
 
 
 
